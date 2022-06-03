@@ -1,4 +1,4 @@
 # BootcampSantanderDesafioProjeto1
-Desafio de Projeto sobre Github.
+Repositório para o Desafio de Projeto sobre Github.
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
